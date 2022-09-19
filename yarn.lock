@@ -619,10 +619,10 @@ find-up@^4.0.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
-form-render@^1.13.14:
-  version "1.13.14"
-  resolved "http://npm.weimob.com:80/form-render/-/form-render-1.13.14.tgz#5b92e8258eac34ffa15b6c6ebd6c7af4c783e076"
-  integrity sha512-boEDV31ulmj97LYvF7VysyObQvTboHJ9i9TL3XgIj5O0fvxWglH/OeqF5zmlh1V5U+fXK5G2Krd4TuVJfI12qw==
+form-render@1.13.15-beta.1:
+  version "1.13.15-beta.1"
+  resolved "http://npm.weimob.com:80/form-render/-/form-render-1.13.15-beta.1.tgz#2bcb67d7786830756f0f984f0f643a65d4c21cab"
+  integrity sha512-4PhmQwnWV79pg+KAw2xzTxZeS+fYiXx6Z/kOw812PIjBkwmgyNyCMIYVnvSkuBmZ9lWoOp57l5NS0VUzrqRgjw==
   dependencies:
     "@ant-design/icons" "^4.0.2"
     async-validator "^3.5.1"
